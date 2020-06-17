@@ -1,6 +1,19 @@
 body {
-  margin: 0;
-  line-height: 1.5;
-  text-transform: uppercase;
+  background-color: #5cb8d6;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
+h5 {
+  text-align: center;
+  color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 48px;
+}
+
+h6 {
+  text-align: center;
+  color: white;
+  }
