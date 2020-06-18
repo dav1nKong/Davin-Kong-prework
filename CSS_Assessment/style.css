@@ -1,0 +1,37 @@
+nav {
+  background-color: #2220208f;
+  color: #333;
+  text-align: center;
+}
+#first {
+  width: 50%;
+  float: left;
+  height: 300px;
+  margin: 30px 0px 100px 0px;
+  background-color: blue;
+  color: black;
+  line-height: 300px;
+  text-align: center;
+}
+
+#second {
+  width: 25%;
+  float: right;
+  height: 300px;
+  margin: 30px 0px 100px 0px;
+  background-color: red;
+  color: black;
+  line-height: 300px;
+  text-align: center;
+}
+
+#clear {
+  clear: both;
+}
+footer {
+  background-color: #077710f8;
+  color: #333;
+  text-align: center;
+}
+
+  
