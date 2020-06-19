@@ -1,0 +1,115 @@
+*{
+	
+box-sizing: border-box;
+
+}
+
+ 
+
+html{
+	
+position:relative;
+	
+min-height:100%;
+}
+
+
+
+body{
+	
+	
+background-color: pink;
+height:100%;
+	
+width:100%;
+	
+
+}
+
+
+header{
+	
+color: white;
+	
+margin-bottom: 30px;
+	
+width: 100%;
+	
+overflow: auto;
+	
+height: 75px;
+		
+font-family:"Georgia";
+
+}
+
+
+
+
+.title{
+	
+color:white;
+	
+font-family:"Times New Roman";
+	
+margin-left: 30px;
+	
+margin-right: 15px;
+
+font-size: 40px;
+	
+text-align: center;
+	
+
+}
+
+
+
+
+
+.top-line{
+	
+font-family: serif;
+	
+color:#010101;
+	
+padding-bottom: 20px;
+	
+margin-left: 30px;
+	
+margin-right: 30px;
+	
+text-align: center;
+
+}
+
+
+
+
+
+#quote-buttons{
+	
+color: white;
+text-align: center;	
+margin-top: 10px;
+
+}
+
+.button{
+		
+background-color: purple;
+		
+border-color: white;
+		
+padding: 15px 15px;
+		
+text-align: center;
+			
+font-size: 10px;
+		
+cursor: pointer;
+		
+color: white;
+}
+
+
